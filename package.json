@@ -5,12 +5,13 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js"
+    "scrape": "node index.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "minimist": "^1.2.6",
     "website-scraper": "^5.0.0",
     "website-scraper-puppeteer": "^1.0.0"
   },
