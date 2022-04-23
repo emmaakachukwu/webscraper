@@ -1,3 +1,4 @@
+.DS_Store
 .vscode
 scrapes
 node_modules
